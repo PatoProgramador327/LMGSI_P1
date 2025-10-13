@@ -1,0 +1,56 @@
+h1 {
+    color: tomato;
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+caption {
+    color: #2a7ae2;
+    font-size: 25px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+th {
+    width: 100px;
+    background-color: #ffe4b5;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #000;
+    padding: 6px 0;
+}
+
+td {
+    border: 1px solid #000;
+    text-align: center;
+    height: 32px;
+}
+
+/* Colores para cada módulo, puedes cambiarlos si lo deseas */
+.modul1 { background-color: #e6f7ff; }
+.modul2 { background-color: #ffe6e6; }
+.modul3 { background-color: #e6ffe6; }
+.modul4 { background-color: #fffbe6; }
+.modul5 { background-color: #f0e6ff; }
+.modul6 { background-color: #e6ffff; }
+.modul7 { background-color: #f9e6ff; }
+.modul8 { background-color: #db8d9194; }
+
+
+h1 {
+    color: tomato;
+    font-weight: bold; /* També es pot posar <strong> o <b> a l'HTML. També hi ha altres maneres, però aquestes serien les més accessibles. */
+    text-align: center;
+}
+
+caption {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 10px;
+    size: 25px;
+}
